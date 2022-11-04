@@ -1,0 +1,13 @@
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\json1.json
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\testWebApi.exe.config
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\testWebApi.exe
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\testWebApi.pdb
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\obj\Debug\testWebApi.csproj.AssemblyReference.cache
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\obj\Debug\testWebApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\obj\Debug\testWebApi.csproj.CoreCompileInputs.cache
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\obj\Debug\testWebApi.exe
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\obj\Debug\testWebApi.pdb
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\obj\Debug\testWebApi.csproj.CopyComplete
+C:\Users\003730\Desktop\測試用專案\testWebApi\testWebApi\bin\Debug\json2.json
